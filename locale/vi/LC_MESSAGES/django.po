@@ -665,7 +665,7 @@ msgid "IOI (pre-2016)"
 msgstr ""
 
 #: judge/contest_format/vnoj.py:49
-msgid "VNOJ"
+msgid "YSOJ"
 msgstr ""
 
 #: judge/custom_translations.py:11
@@ -928,8 +928,8 @@ msgid "Problem URL"
 msgstr "Link bài"
 
 #: judge/forms.py:426
-msgid "Full URL to the problem, e.g. https://oj.vnoi.info/problem/post"
-msgstr "Link tới bài tập, ví dụ: https://oj.vnoi.info/problem/post"
+msgid "Full URL to the problem, e.g. https://oj.youthscience.club/problem/post"
+msgstr "Link tới bài tập, ví dụ: https://oj.youthscience.club/problem/post"
 
 #: judge/forms.py:482 judge/views/register.py:27
 #: templates/blog/top-contrib.html:8 templates/blog/top-pp.html:8
@@ -1237,7 +1237,7 @@ msgid ""
 "for ICPC and VNOJ format."
 msgstr ""
 "Nếu được thiết lập, bảng xếp hạng sẽ dược đóng băng trong X phút cuối. Chỉ "
-"hỗ trợ format ICPC và VNOJ."
+"hỗ trợ format ICPC và YSOJ."
 
 #: judge/models/contest.py:97 judge/models/problem.py:185
 msgid "publicly visible"
@@ -1402,7 +1402,7 @@ msgstr "Logo"
 msgid ""
 "This image will replace the default site logo for users inside the contest."
 msgstr ""
-"Link tới logo của kỳ thi. Ví dụ: https://oj.vnoi.info/martor/logo/hoadao.png"
+"Link tới logo của kỳ thi. Ví dụ: https://oj.youthscience.club/martor/logo/hoadao.png"
 
 #: judge/models/contest.py:156
 msgid "the amount of live participants"
@@ -4800,7 +4800,7 @@ msgstr "dựa trên nền tảng %(dmoj)s"
 #: templates/base.html:364
 #, python-format
 msgid "follow us on %(github)s and %(facebook)s"
-msgstr "theo dõi VNOI trên %(github)s và %(facebook)s"
+msgstr "theo dõi YS trên %(github)s và %(facebook)s"
 
 #: templates/blog/blog-list-tabs.html:4
 msgid "Newsfeed"

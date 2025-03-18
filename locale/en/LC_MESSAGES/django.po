@@ -641,7 +641,7 @@ msgid "IOI (pre-2016)"
 msgstr ""
 
 #: judge/contest_format/vnoj.py:19
-msgid "VNOJ"
+msgid "YSOJ"
 msgstr ""
 
 #: judge/contest_format/vnoj.py:124
@@ -868,7 +868,7 @@ msgid "Problem URL"
 msgstr ""
 
 #: judge/forms.py:378
-msgid "Full URL to the problem, e.g. https://oj.vnoi.info/problem/post"
+msgid "Full URL to the problem, e.g. https://oj.youthscience.club/problem/post"
 msgstr ""
 
 #: judge/forms.py:410 judge/views/register.py:26
